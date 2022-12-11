@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './style';
-import { Navbar, Hero, About, Contact, Drawing , Type} from './components';
+import { Navbar, Hero, About, Contact, Drawing } from './components';
 
 
 const App = () => 

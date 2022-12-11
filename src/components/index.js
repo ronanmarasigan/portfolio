@@ -3,7 +3,7 @@ import Hero from "./Hero";
 import About from "./About";
 import Contact from "./Contact";
 import Drawing from "./Drawing";
-import Type from "./Type";
+
 
 
 export{
@@ -12,5 +12,4 @@ export{
     About,
     Contact,
     Drawing,
-    Type
 };
