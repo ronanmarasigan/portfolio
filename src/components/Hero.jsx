@@ -22,7 +22,7 @@ const Hero = () =>
         </p>
 
         <Button styles='mt-10'/>
-        <div class="spinner">
+        <div class="spinner sm:ml-[300px] ml-[150px]">
           <div></div>
           <div></div>
           <div></div>
